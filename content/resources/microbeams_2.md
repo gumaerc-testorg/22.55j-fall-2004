@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-55j-principles-of-radiation-interactions-fall-2004/9bcafca65f48e9918372a8926d465774_microbeams_2.pdf
+file: /media/courses/22-55j-principles-of-radiation-interactions-fall-2004/9bcafca65f48e9918372a8926d465774_microbeams_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: microbeams_2.pdf
 uid: 9bcafca6-5f48-e991-8372-a8926d465774

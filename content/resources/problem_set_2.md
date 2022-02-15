@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-55j-principles-of-radiation-interactions-fall-2004/c6831172f4c808cc98da167f69cd4df2_problem_set_2.pdf
+file: /media/courses/22-55j-principles-of-radiation-interactions-fall-2004/c6831172f4c808cc98da167f69cd4df2_problem_set_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: problem_set_2.pdf
 uid: c6831172-f4c8-08cc-98da-167f69cd4df2
