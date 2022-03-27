@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 542b7b54-b44b-165e-dbe0-50fcd49e3e10
 resourcetype: Document
 title: radiaton_therapy.pdf
 uid: 4eb5b07a-71d6-0e82-af1c-e29e214a7815

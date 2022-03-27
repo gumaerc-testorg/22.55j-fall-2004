@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 542b7b54-b44b-165e-dbe0-50fcd49e3e10
 resourcetype: Document
 title: vivdos_resp_asay.pdf
 uid: 70f72505-1f38-78ae-8ffe-014a53be0877

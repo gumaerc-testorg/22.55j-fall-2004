@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 542b7b54-b44b-165e-dbe0-50fcd49e3e10
 resourcetype: Document
 title: alph_n_bystand.pdf
 uid: cc49d978-4519-c2f7-3f48-de0c668937a8

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 542b7b54-b44b-165e-dbe0-50fcd49e3e10
 resourcetype: Document
 title: cel_tisu_tumr_kin.pdf
 uid: 857b376d-2f3d-30b4-7aa7-384ad0594566

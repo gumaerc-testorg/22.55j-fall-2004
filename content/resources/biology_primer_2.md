@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: d6b2bc76-9727-8893-00de-7f1761a7a830
 resourcetype: Document
 title: biology_primer_2.pdf
 uid: 1b831b71-199f-3fa0-c268-4c05207a6301
