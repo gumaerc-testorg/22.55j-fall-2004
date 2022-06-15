@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/22-55j-principles-of-radiation-interactions-fall-2004/ce77610ebe39861a50200505a774e8b9_problem_set_6.pdf
+file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/ce77610ebe39861a50200505a774e8b9_problem_set_6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

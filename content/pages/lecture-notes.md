@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -34,7 +35,7 @@ Course Intro/Cells and Tissues Overview
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Radiation Interactions ([PDF]({{< baseurl >}}/resources/energy_depos_hcp))
+Radiation Interactions ({{% resource_link f90dd392-414d-be3c-f45f-645606cee7be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Radiation Interactions ([PDF]({{< baseurl >}}/resources/energy_depos_hcp))
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Radiation Interactions (cont.) ([PDF 1]({{< baseurl >}}/resources/ener_depo_neutro)) ([PDF 2]({{< baseurl >}}/resources/ener_depo_photon)) ([PDF 3]({{< baseurl >}}/resources/energ_depos_elec))
+Radiation Interactions (cont.) ({{% resource_link 2806d1e1-9d77-d04a-5938-e3bb0d9de336 "PDF 1" %}}) ({{% resource_link 91d07afc-f726-613b-748e-07aebb4f1eb5 "PDF 2" %}}) ({{% resource_link ca1553f5-6c66-7057-0f63-f804edbeffa9 "PDF 3" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ Radiation Interactions (cont.) ([PDF 1]({{< baseurl >}}/resources/ener_depo_neut
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Radiation Chemistry/LET/Tracks ([PDF]({{< baseurl >}}/resources/raditn_chemistry))
+Radiation Chemistry/LET/Tracks ({{% resource_link 8c7f71f5-094f-a48c-06c1-71f37ab9ad08 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ Radiation Chemistry/LET/Tracks ([PDF]({{< baseurl >}}/resources/raditn_chemistry
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Effects on Chromosomes/DNA ([PDF 1]({{< baseurl >}}/resources/ef_of_rad_chromos)) ([PDF 2]({{< baseurl >}}/resources/ef_of_rad_on_dna))
+Effects on Chromosomes/DNA ({{% resource_link 4b8dde67-b5fa-df59-e662-5f3cc0083d62 "PDF 1" %}}) ({{% resource_link e7fb1fb8-efc0-180f-c2d7-006bfaa28e95 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ Effects on Chromosomes/DNA ([PDF 1]({{< baseurl >}}/resources/ef_of_rad_chromos)
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Dose Response in Vitro: Cell Survival Curves ([PDF 1]({{< baseurl >}}/resources/cel_surv_curves)) ([PDF 2]({{< baseurl >}}/resources/dos_calculations))
+Dose Response in Vitro: Cell Survival Curves ({{% resource_link b199767b-521a-702c-a615-d6631fa9b215 "PDF 1" %}}) ({{% resource_link f7a2e5da-2724-9c95-c232-ea1248c65c40 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ Dose Response in Vitro: Cell Survival Curves ([PDF 1]({{< baseurl >}}/resources/
 7
 {{< tdclose >}}
 {{< tdopen >}}
-RBE/Clustered Damage ([PDF]({{< baseurl >}}/resources/cluster_damage))
+RBE/Clustered Damage ({{% resource_link 548fb4f3-58bb-6094-94ec-3fc7db8f72f0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ RBE/Clustered Damage ([PDF]({{< baseurl >}}/resources/cluster_damage))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Protons and Alphas of same LET ([PDF]({{< baseurl >}}/resources/alph_proto_of_let))
+Protons and Alphas of same LET ({{% resource_link 98272171-52e1-2929-0f1d-fc0d36162370 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ Protons and Alphas of same LET ([PDF]({{< baseurl >}}/resources/alph_proto_of_le
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Dose Response in Vivo ([PDF]({{< baseurl >}}/resources/vivdos_resp_asay))
+Dose Response in Vivo ({{% resource_link 70f72505-1f38-78ae-8ffe-014a53be0877 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ Dose Response in Vivo ([PDF]({{< baseurl >}}/resources/vivdos_resp_asay))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Chemical Modification of Radiation Response ([PDF 1]({{< baseurl >}}/resources/chem_mod_rad_res)) ([PDF 2]({{< baseurl >}}/resources/modif_rad_respns))
+Chemical Modification of Radiation Response ({{% resource_link f033acc4-6b78-6a88-52ad-c8ea6ddc9740 "PDF 1" %}}) ({{% resource_link 832f2006-a52b-a17b-c426-fc2067178694 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +116,7 @@ Chemical Modification of Radiation Response ([PDF 1]({{< baseurl >}}/resources/c
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Cell, Tissue and Tumor Kinetics ([PDF]({{< baseurl >}}/resources/cel_tisu_tumr_kin))
+Cell, Tissue and Tumor Kinetics ({{% resource_link 857b376d-2f3d-30b4-7aa7-384ad0594566 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +134,7 @@ Exam 1
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Radiation Therapy: Tumor Radiobiology ([PDF]({{< baseurl >}}/resources/radiaton_therapy))
+Radiation Therapy: Tumor Radiobiology ({{% resource_link 4eb5b07a-71d6-0e82-af1c-e29e214a7815 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +143,7 @@ Radiation Therapy: Tumor Radiobiology ([PDF]({{< baseurl >}}/resources/radiaton_
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Radiation Therapy (contd.): Fractionation ([PDF]({{< baseurl >}}/resources/radiaton_therapy))
+Radiation Therapy (contd.): Fractionation ({{% resource_link 4eb5b07a-71d6-0e82-af1c-e29e214a7815 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +152,7 @@ Radiation Therapy (contd.): Fractionation ([PDF]({{< baseurl >}}/resources/radia
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Acute Effects of Whole Body Exposure ([PDF]({{< baseurl >}}/resources/intro_absorb_dos))
+Acute Effects of Whole Body Exposure ({{% resource_link 73e30b02-3ed8-ef88-9211-77a6770577de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +161,7 @@ Acute Effects of Whole Body Exposure ([PDF]({{< baseurl >}}/resources/intro_abso
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Late Effects: Chronic Exposure/Low Doses ([PDF]({{< baseurl >}}/resources/helth_ef_chronic))
+Late Effects: Chronic Exposure/Low Doses ({{% resource_link 01701407-7c87-46b4-8c75-32683f1b08df "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +170,7 @@ Late Effects: Chronic Exposure/Low Doses ([PDF]({{< baseurl >}}/resources/helth_
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Radiation Protection/Background Radiation/Radon ([PDF]({{< baseurl >}}/resources/bakgrnd_radiaton))
+Radiation Protection/Background Radiation/Radon ({{% resource_link d80bba59-cce4-de9c-4ea0-ffd342051a6e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -178,7 +179,7 @@ Radiation Protection/Background Radiation/Radon ([PDF]({{< baseurl >}}/resources
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Alpha Particles/Bystander Effect ([PDF]({{< baseurl >}}/resources/alph_n_bystand))
+Alpha Particles/Bystander Effect ({{% resource_link cc49d978-4519-c2f7-3f48-de0c668937a8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +188,7 @@ Alpha Particles/Bystander Effect ([PDF]({{< baseurl >}}/resources/alph_n_bystand
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Microbeams ([PDF]({{< baseurl >}}/resources/microbeams))
+Microbeams ({{% resource_link c93620db-2aa7-ba4d-8b87-c38503bd554d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +206,7 @@ RBE of Diagnostic X Rays
 21
 {{< tdclose >}}
 {{< tdopen >}}
-BNCT/Other Modalities ([PDF]({{< baseurl >}}/resources/bnct_lect_so4))
+BNCT/Other Modalities ({{% resource_link 38256894-7f61-a047-3afc-13cbe688b3e4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
