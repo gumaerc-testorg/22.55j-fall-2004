@@ -5,6 +5,7 @@ file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/017014077c8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: helth_ef_chronic.pdf
 uid: 01701407-7c87-46b4-8c75-32683f1b08df
 ---
 Summary of lecture.
-

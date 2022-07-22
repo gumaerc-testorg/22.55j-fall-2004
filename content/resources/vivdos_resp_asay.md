@@ -5,6 +5,7 @@ file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/70f725051f3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: vivdos_resp_asay.pdf
 uid: 70f72505-1f38-78ae-8ffe-014a53be0877
 ---
 Summary of lecture.
-

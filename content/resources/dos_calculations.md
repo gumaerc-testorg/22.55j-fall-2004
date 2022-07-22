@@ -5,6 +5,7 @@ file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/f7a2e5da272
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dos_calculations.pdf
 uid: f7a2e5da-2724-9c95-c232-ea1248c65c40
 ---
 Summary of lecture.
-

@@ -5,6 +5,7 @@ file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/4eb5b07a71d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: radiaton_therapy.pdf
 uid: 4eb5b07a-71d6-0e82-af1c-e29e214a7815
 ---
 Summary of lecture.
-

@@ -5,6 +5,7 @@ file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/cc49d978451
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: alph_n_bystand.pdf
 uid: cc49d978-4519-c2f7-3f48-de0c668937a8
 ---
 Summary of lecture.
-
