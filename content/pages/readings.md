@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: d6b2bc76-9727-8893-00de-7f1761a7a830
 ---
 
-Overview of Cell Biology ([PDF]({{< baseurl >}}/resources/biology_primer))
+Overview of Cell Biology ({{% resource_link 3683d296-db09-8567-077a-f6cad956bde3 "PDF" %}})
 
 Rydberg, Björn, William R. Holley, I. Saira Mian, and Aloke Chatterjee. "Chromatin Conformation in Living Cells: Support for a Zig-Zag Model of the 30 nm Chromatin Fiber." _Journal of Molecular Biology_ 284 (1998): 71-84.
 
