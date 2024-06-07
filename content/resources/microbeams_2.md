@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/9bcafca65f48e9918372a8926d465774_microbeams_2.pdf
+file_size: 2646914
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
