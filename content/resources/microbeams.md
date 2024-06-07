@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of lecture.
 file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/c93620db2aa7ba4d8b87c38503bd554d_microbeams.pdf
+file_size: 146110
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

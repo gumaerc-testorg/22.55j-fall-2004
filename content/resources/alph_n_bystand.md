@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of lecture.
 file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/cc49d9784519c2f73f48de0c668937a8_alph_n_bystand.pdf
+file_size: 432198
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

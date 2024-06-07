@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides including photographs and diagrams.
 file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/382568947f61a0473afc13cbe688b3e4_bnct_lect_so4.pdf
+file_size: 2443698
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
