@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of lecture.
-file: /ol-ocw-studio-app/courses/22-55j-principles-of-radiation-interactions-fall-2004/e7fb1fb8efc0180fc2d7006bfaa28e95_ef_of_rad_on_dna.pdf
+file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/e7fb1fb8efc0180fc2d7006bfaa28e95_ef_of_rad_on_dna.pdf
 file_size: 183759
 file_type: application/pdf
 learning_resource_types:

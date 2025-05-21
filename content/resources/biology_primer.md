@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Biology primer.
-file: /ol-ocw-studio-app/courses/22-55j-principles-of-radiation-interactions-fall-2004/3683d296db098567077af6cad956bde3_biology_primer.pdf
+file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/3683d296db098567077af6cad956bde3_biology_primer.pdf
 file_size: 183455
 file_type: application/pdf
 learning_resource_types:
