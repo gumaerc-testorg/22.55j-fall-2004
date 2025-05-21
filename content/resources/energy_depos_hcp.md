@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Summary of lecture.
-file: /ol-ocw-studio-app/courses/22-55j-principles-of-radiation-interactions-fall-2004/f90dd392414dbe3cf45f645606cee7be_energy_depos_hcp.pdf
+file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/f90dd392414dbe3cf45f645606cee7be_energy_depos_hcp.pdf
 file_size: 249321
 file_type: application/pdf
 learning_resource_types:
