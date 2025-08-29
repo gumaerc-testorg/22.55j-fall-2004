@@ -3,7 +3,7 @@ content_type: resource
 description: This lecture notes is the second part of the lecture discourse on Boron
   Neutron Capture Therapy (BNCT) about BNCT politics, procedure,patients and there
   survivals and there clinical trials.
-file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/3f8e6aea5b018ebe41ce8d0356e5b0a0_bnct_lect_so4_2.pdf
+file: /ol-ocw-studio-app/courses/22-55j-principles-of-radiation-interactions-fall-2004/3f8e6aea5b018ebe41ce8d0356e5b0a0_bnct_lect_so4_2.pdf
 file_size: 2856049
 file_type: application/pdf
 learning_resource_types:

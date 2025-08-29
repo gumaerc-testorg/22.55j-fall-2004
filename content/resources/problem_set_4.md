@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/22-55j-principles-of-radiation-interactions-fall-2004/93350676dedb8b960056b18e48ac9a30_problem_set_4.pdf
+file: /ol-ocw-studio-app/courses/22-55j-principles-of-radiation-interactions-fall-2004/93350676dedb8b960056b18e48ac9a30_problem_set_4.pdf
 file_size: 11723
 file_type: application/pdf
 learning_resource_types:
